@@ -4,11 +4,11 @@
 <hr>
 <h3 align="center">IDE :</h3>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/intellijidea/" height="40" alt="intellijidea"  />
+  <img src="https://cdn.simpleicons.org/intellijidea" height="40" alt="intellijidea"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+  <img src="" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/" height="40" alt="android"  />
+  <img src="https://cdn.simpleicons.org/androidstudio" height="40" alt="android"  />
 </div>
 <hr>
 <h3 align="center">BACK-END :</h3>
@@ -44,9 +44,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="sqlServer"  />
+  <img src="" height="40" alt="sqlServer"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/#4479A1" height="40" alt="mySql"  />
+  <img src="https://cdn.simpleicons.org/mysql" height="40" alt="mySql"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgreSQL"  />
   <img width="12" />
