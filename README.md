@@ -34,7 +34,7 @@
 
 ## About Me 
 
-- I’m currently working on **Full Stack projects** using Node.js, Angular, React, and Spring Boot.
+- I’m currently working on **Full Stack projects** using Node.js, TypeScript, React, and Spring Boot.
 - I’m constantly learning **DevOps, cloud technologies, and microservices architecture** 😁
 
 ---
