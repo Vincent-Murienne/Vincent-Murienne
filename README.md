@@ -15,8 +15,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/angular" height="40" alt="Angular" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/react" height="40" alt="React" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/jenkins" height="40" alt="Jenkins" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker" height="40" alt="Docker" />
